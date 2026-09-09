@@ -13,7 +13,7 @@ imagens e vídeo: **búfalo, elefante, rinoceronte e zebra**.
 
 ## Como executar
 
-1. Abra `deteccao_animais_yolo26.ipynb` no [Google Colab](https://colab.research.google.com)
+1. Abra `deteccao_animais_yolo26.ipynb` no [Google Colab](https://colab.research.google.com/drive/1pWbgplldurVchX9CjbsroJz5Uv3zR0_a?usp=sharing)
 2. Ative a GPU: `Ambiente de execução → Alterar o tipo de ambiente de execução → GPU (T4)`
 3. Rode as células em ordem
 
