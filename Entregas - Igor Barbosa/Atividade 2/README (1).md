@@ -36,7 +36,7 @@ sem a hierarquia ter entrado no treino.
 
 ## Como executar
 
-1. Abra `classificacao_cifar100.ipynb` no [Google Colab](https://colab.research.google.com)
+1. Abra `classificacao_cifar100.ipynb` no [Google Colab](https://colab.research.google.com/drive/1xnWDZd-Ewgc02h99O4n3mY9Dzd4S5G-n?usp=sharing)
 2. Ative a GPU: `Ambiente de execução → Alterar o tipo de ambiente de execução → GPU (T4)`
 3. Rode as células em ordem, de cima para baixo
 
